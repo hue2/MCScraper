@@ -2,3 +2,4 @@
 *.config
 #ignore Visual studio 2015/2017 cache/options directory 
 .vs/
+MCProductScraper/MCProductScraper/App.config

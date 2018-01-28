@@ -5,3 +5,10 @@ C:\Users\Hue\Source\repos\MCProductScraper\MCProductScraper\obj\Release\MCProduc
 C:\Users\Hue\Source\repos\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.csproj.CoreCompileInputs.cache
 C:\Users\Hue\Source\repos\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.exe
 C:\Users\Hue\Source\repos\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.pdb
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\bin\Release\MCProductScraper.exe.config
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\bin\Release\MCProductScraper.exe
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\bin\Release\MCProductScraper.pdb
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.csproj.CoreCompileInputs.cache
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.exe
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.pdb
+C:\Users\Hue\Documents\GitHub\MCScraper\MCProductScraper\MCProductScraper\obj\Release\MCProductScraper.csprojResolveAssemblyReference.cache
